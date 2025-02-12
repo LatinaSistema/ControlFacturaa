@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|d:\\cyaguachi\\latinasoft\\latinasoft\\frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|solutionrelative:frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|solutionrelative:frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|d:\\cyaguachi\\latinasoft\\latinasoft\\frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|solutionrelative:frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,20 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FrmRegistroFactura.cs",
               "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\FrmRegistroFactura.cs",
               "RelativeDocumentMoniker": "FrmRegistroFactura.cs",
               "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\FrmRegistroFactura.cs",
               "RelativeToolTip": "FrmRegistroFactura.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAewGEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T19:46:07.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmRegistroFactura.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\FrmRegistroFactura.cs",
               "RelativeDocumentMoniker": "FrmRegistroFactura.cs",

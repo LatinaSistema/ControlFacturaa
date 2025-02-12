@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\",
+  "WorkspaceRootPath": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|d:\\cyaguachi\\latinasoft\\latinasoft\\controlfacturaa\\frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|solutionrelative:frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|d:\\cyaguachi\\latinasoft\\latinasoft\\frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|solutionrelative:frmregistrofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\negbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\negbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|solutionrelative:negbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E4B0F7F-8141-4D22-8B22-6836CB4570FD}|latinasoft.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,22 +44,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\App.config",
+              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\App.config",
+              "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-10T22:04:33.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T22:04:33.44Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "negBaseDatos.cs",
-              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\negBaseDatos.cs",
+              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\negBaseDatos.cs",
               "RelativeDocumentMoniker": "negBaseDatos.cs",
-              "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\negBaseDatos.cs",
+              "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\negBaseDatos.cs",
               "RelativeToolTip": "negBaseDatos.cs",
               "ViewState": "AgIAACQAAAAAAAAAAADgvzUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmRegistroFactura.cs",
-              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\FrmRegistroFactura.cs",
+              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\FrmRegistroFactura.cs",
               "RelativeDocumentMoniker": "FrmRegistroFactura.cs",
-              "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\FrmRegistroFactura.cs",
+              "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\FrmRegistroFactura.cs",
               "RelativeToolTip": "FrmRegistroFactura.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAApwBgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA5wBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T19:46:07.048Z",
               "EditorCaption": ""
@@ -82,21 +81,20 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmRegistroFactura.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\FrmRegistroFactura.cs",
+              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\FrmRegistroFactura.cs",
               "RelativeDocumentMoniker": "FrmRegistroFactura.cs",
               "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\FrmRegistroFactura.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmRegistroFactura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\FrmRegistroFactura.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T19:39:08.842Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-02-10T19:39:08.842Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\Program.cs",
+              "DocumentMoniker": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\Program.cs",
+              "ToolTip": "D:\\CYAGUACHI\\LATINASOFT\\latinasoft\\ControlFacturaa\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
